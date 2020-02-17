@@ -4,6 +4,8 @@
 ```
 wget https://raw.githubusercontent.com/jetsonworld/installROS/master/install-ros.sh
 ./install-ros.sh
+(or)
+sh install-ros.sh
 ```
 (2) 거북이 시뮬레이터 시작하기
 ```
