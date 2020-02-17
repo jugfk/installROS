@@ -22,3 +22,5 @@ rosrun turtlesim turtlesim_node
 
 ## 출처
 https://github.com/karaage0703/jetson-nano-tools
+
+(Thank you for your precious devotion.)
