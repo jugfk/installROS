@@ -19,3 +19,6 @@ rosrun turtlesim turtlesim_node
 다음 그림과 같이 거북이의 일러스트가 나타나면 성공입니다.
 
 ![image](https://raw.githubusercontent.com/jetsonworld/installROS/master/ROS_Turtle.jpg)
+
+## 출처
+https://github.com/karaage0703/jetson-nano-tools
