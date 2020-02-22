@@ -2,7 +2,8 @@
 ***
 (1) 다운로드 & 설치
 ```
-wget https://raw.githubusercontent.com/jetsonworld/installROS/master/install-ros.sh
+git clone https://github.com/jetsonworld/git clone https://github.com/jetsonworld/installROS.git.git
+cd installROS
 ./install-ros.sh
 (or)
 sh install-ros.sh
@@ -17,6 +18,8 @@ roscore
 rosrun turtlesim turtlesim_node
 ```
 다음 그림과 같이 거북이의 일러스트가 나타나면 성공입니다.
+
+
 
 ![image](https://raw.githubusercontent.com/jetsonworld/installROS/master/ROS_Turtle.jpg)
 
