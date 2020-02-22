@@ -18,8 +18,11 @@ roscore
 rosrun turtlesim turtlesim_node
 ```
 다음 그림과 같이 거북이의 일러스트가 나타나면 성공입니다.
-
-
+다음은 새로운 터미널을 또 엽니다.
+열어서 다음과 같이 실행하면 키보드를 이용해서 거북이를 움직일수 있습니다.
+```
+rosrun turtlesim turtle_teleop_key
+```
 
 ![image](https://raw.githubusercontent.com/jetsonworld/installROS/master/ROS_Turtle.jpg)
 
