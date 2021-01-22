@@ -2,8 +2,10 @@
 ***
 (1) 다운로드 & 설치
 ```
-git clone https://github.com/jetsonworld/git clone https://github.com/jetsonworld/installROS.git.git
+git clone https://github.com/jetsonworld/installROS.git
 cd installROS
+chmod +x install-ros.sh
+
 ./install-ros.sh
 (or)
 sh install-ros.sh
