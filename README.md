@@ -31,6 +31,7 @@ rosrun turtlesim turtle_teleop_key
 ![image](https://raw.githubusercontent.com/jetsonworld/installROS/master/ROS_Turtle.jpg)
 
 ## 출처
-https://github.com/karaage0703/jetson-nano-tools
+[1] http://wiki.ros.org/melodic/Installation/Ubuntu
+[2] https://github.com/karaage0703/jetson-nano-tools
 
 (Thank you for your precious devotion.)
