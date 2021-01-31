@@ -1,5 +1,5 @@
 # 젯슨 나노에 ROS를 설치하고 구동해보기
-* Tested by: Jetson Nano, Ubuntu 18.04 LTS
+* 테스트한 기기: Jetson Nano Ubuntu 18.04 LTS
 
 ***
 (1) 다운로드 & 설치
