@@ -15,6 +15,9 @@ sudo apt-get update
 echo "[Installing ROS and ROS Packages]"
 sudo apt-get install -y ros-melodic-desktop
 
+# need for check
+sudo apt install python-rosdep
+
 echo "[rosdep init and python-rosinstall]"
 sudo rosdep init
 rosdep update
