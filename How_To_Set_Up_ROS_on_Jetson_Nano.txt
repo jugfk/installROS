@@ -4,6 +4,7 @@ How To Set up & test ROS on Jetson Nano:
 sudo apt install python-rosdep
 git clone https://github.com/jetsonworld/installROS.git
 cd installROS
+chmod +x install-ros.sh
 sh install-ros.sh
 roscore
 rosrun turtlesim turtlesim_node
