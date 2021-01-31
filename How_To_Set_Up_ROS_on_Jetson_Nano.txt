@@ -1,6 +1,7 @@
 ======================================================================================
-How To Set up & imprement ROS on Jetson Nano:
+How To Set up & test ROS on Jetson Nano:
 ======================================================================================
+sudo apt install python-rosdep
 git clone https://github.com/jetsonworld/installROS.git
 cd installROS
 sh install-ros.sh
